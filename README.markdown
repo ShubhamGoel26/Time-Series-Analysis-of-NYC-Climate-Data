@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project performs a comprehensive time series analysis of historical temperature data for New York City (NYC) from 1970 to 2013, sourced from the Berkeley Earth dataset via Kaggle.
-[link-text]([https://example.com](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data))
+[link-text](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
 The primary objectives are to preprocess and explore the temperature data, visualize seasonal patterns, evaluate forecasting models (ARIMA, SARIMA, and Prophet), and generate future temperature forecasts for 2014–2033 using the best-performing model. The analysis also estimates the rate of temperature increase and examines seasonal changes.
 
 ## Dataset
